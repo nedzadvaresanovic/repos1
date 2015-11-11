@@ -5,3 +5,4 @@ Ovo je nova linija za Developer branch.
 Ova linija je dodana na Developer branch nakon merge sa master branch.
 
 Sa drugog racunara.
+
