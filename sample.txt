@@ -1,2 +1,4 @@
 Ovo je sample file, i on je public na GitHub.com
 Ovo je nova linija u ovom file-u.
+
+Ovo je nova linija za Developer branch.
