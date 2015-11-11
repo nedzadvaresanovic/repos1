@@ -1,0 +1,2 @@
+Ovo je sample file, i on je public na GutHub.com
+Ovo je nova linija u ovom file-u.
